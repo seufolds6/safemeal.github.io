@@ -1,2 +1,2 @@
 # SafeMeal
-Support URL for SafeMeal
+Support URL
