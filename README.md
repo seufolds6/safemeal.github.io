@@ -1,2 +1,2 @@
-# safemeal.github.io
+# SafeMeal
 Support URL for SafeMeal
