@@ -1,2 +1,2 @@
 # App privacy policies
-Support URL
+Support URLs
