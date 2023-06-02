@@ -1,2 +1,2 @@
-# SafeMeal
+# App privacy policies
 Support URL
